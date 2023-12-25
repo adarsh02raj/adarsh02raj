@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="125" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/drive/u/5/my-drive)"  />
+<img align="right" height="125" src="https://drive.google.com/drive/u/5/my-drive"  />
 
 ###
 
