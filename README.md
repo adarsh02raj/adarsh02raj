@@ -87,7 +87,22 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adarsh02raj/adarsh02raj/output/snake.svg" alt="Snake animation" />
+- uses: Platane/snk@v3
+  with:
+    # GitHub username to read the contribution graph from
+    github_user_name: adarsh02raj
+
+    # List of files to generate. Each output can be customized with options as a query string.
+    # Supported options:
+    # - palette: A preset of color, one of [github, github-dark, github-light]
+    # - color_snake: Color of the snake
+    # - color_dots: Comma-separated list of dots color. The first one is 0 contribution,
+    #               then it goes from the low contribution to the highest. Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 ###
 
