@@ -92,12 +92,5 @@
 </div>
 
 ###
----
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: adarsh02raj
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![snake animation](https://github.com/<seu adarsh02raj>/<seu adarsh02raj>/blob/output/github-contribution-grid-snake2.svg)
