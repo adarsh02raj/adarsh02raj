@@ -93,4 +93,4 @@
 
 ###
 
-![snake animation](https://github.com/<seu adarsh02raj>/<seu adarsh02raj>/blob/output/github-contribution-grid-snake2.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh02raj&theme=nord_dark)
