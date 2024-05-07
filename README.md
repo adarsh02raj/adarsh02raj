@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Adarsh Raj and I'm a Web Developer, from Bhopal</h2>
 
 ###
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh02raj&theme=nord_dark)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh02raj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh02raj&theme=nord_dark" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh02raj&theme=nord_dark" height="150" alt="languages graph"  />
 </div>
 
@@ -93,8 +93,3 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh02raj&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh02raj&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh02raj&theme=nord_dark)
