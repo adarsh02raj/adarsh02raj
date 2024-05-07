@@ -93,5 +93,5 @@
   <img src="https://profile-counter.glitch.me/adarsh02raj/count.svg?"  />
 </div>
 
-###
-![Contribution snake example](https://github.com/adarsh02raj/adarsh02raj/blob/output/github-contribution-grid-snake.svg)
+##### My Contribution snake
+![Contribution snake](https://github.com/adarsh02raj/adarsh02raj/blob/output/github-contribution-grid-snake.svg)
