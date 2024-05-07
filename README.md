@@ -5,6 +5,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh02raj&theme=nord_dark" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh02raj&theme=nord_dark" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh02raj&theme=nord_dark" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh02raj&theme=nord_dark" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh02raj&theme=nord_dark&utcOffset=8" height="150" alt="languages graph"  />
 </div>
 
 ###
